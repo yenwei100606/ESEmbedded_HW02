@@ -51,13 +51,13 @@ This is the hw02 sample. Please follow the steps below.
 
 --------------------
 
-- [] **If you volunteer to give the presentation next week, check this.**
+- [ ] **If you volunteer to give the presentation next week, check this.**
 
 --------------------
 
 HW02 
-1. 實驗題目 
-改寫main.s，並且透過qemu了解push及pop指令記憶體之狀況
+1. 實驗題目   
+改寫main.s，並且透過qemu了解push及pop指令記憶體之狀況  
 
 2. 實驗步驟
 先將資料夾 gnu-mcu-eclipse-qemu 完整複製到 ESEmbedded_HW02 資料夾中
