@@ -129,5 +129,5 @@ r5,r6,r7裡面的值為
 
 3. 結果與討論
 
-push及pop的順序對qemu沒影響
-push的值是由上往下;pop則是由下往上，所以是FILO
+	push及pop的順序對qemu沒影響
+	push的值是由上往下;pop則是由下往上，所以是FILO
